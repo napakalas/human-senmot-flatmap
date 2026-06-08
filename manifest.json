@@ -1,0 +1,63 @@
+{
+    "id": "human-senmot-flatmap",
+    "models": "NCBITaxon:9606",
+    "description": "description.json",
+    "properties": "properties.json",
+    "sckan-version": "sckan-2026-02-11",
+    "sources": [
+        {
+            "id": "muscular-outer-anterior",
+            "href": "svgs/muscular-outer/muscular-outer-anterior.svg",
+            "kind": "detail",
+            "feature": "body_ventrum",
+            "zoom": 5
+        },
+        {
+            "id": "muscular-outer-posterior",
+            "href": "svgs/muscular-outer/muscular-outer-posterior.svg",
+            "kind": "detail",
+            "feature": "body_dorsum",
+            "zoom": 5
+        },
+        {
+            "id": "muscular-inner-anterior",
+            "href": "svgs/muscular-inner/muscular-inner-anterior.svg",
+            "kind": "detail",
+            "feature": "muscular_outer_anterior",
+            "zoom": 7
+        },
+        {
+            "id": "muscular-inner-posterior",
+            "href": "svgs/muscular-inner/muscular-inner-posterior.svg",
+            "kind": "detail",
+            "feature": "muscular_outer_posterior",
+            "zoom": 7
+        },
+        {
+            "id": "skeletal-anterior",
+            "href": "svgs/skeletal/skeletal-anterior.svg",
+            "kind": "detail",
+            "feature": "muscular_inner_anterior",
+            "zoom": 9
+        },
+        {
+            "id": "skeletal-posterior",
+            "href": "svgs/skeletal/skeletal-posterior.svg",
+            "kind": "detail",
+            "feature": "muscular_inner_posterior",
+            "zoom": 9
+        },
+        {
+            "id": "brain-spinal",
+            "href": "svgs/base.svg",
+            "kind": "base"
+        }
+    ],
+    "connectivityTerms": "connectivity_terms.json",
+    "neuronConnectivity": [
+        "NPO"
+    ],
+    "enablePathZoomRange": true,
+    "proxyFeatures": "proxy_features.json",
+    "path-zoom-range": false
+}

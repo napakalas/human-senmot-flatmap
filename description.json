@@ -1,0 +1,41 @@
+{
+    "title": "Human sensory motoric flatmap",
+    "description": "Files for the human sensory motoric flatmap.",
+    "species": "NCBITaxon:9606",
+    "keywords": [
+        "SPARC",
+        "flatmap",
+        "human",
+        "sensory motoric"
+    ],
+    "contributors": [
+        {
+            "name": "Munarko, Yuda",
+            "orcid": "0000-0002-9656-3945",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Creator",
+            "contact": "Yes"
+        },
+        {
+            "name": "Brooks, David",
+            "orcid": "0000-0002-6758-2186",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Creator",
+            "contact": "Yes"
+        },
+        {
+            "name": "Nickerson, David",
+            "orcid": "0000-0003-4667-9779",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Principle Investigator",
+            "contact": "Yes"
+        },
+        {
+            "name": "Hunter, Peter",
+            "orcid": "0000-0001-9665-4145",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Principle Investigator"
+        }
+    ],
+    "funding": "OT3OD025349"
+}

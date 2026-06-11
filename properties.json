@@ -4661,10 +4661,6 @@
             "models": "UBERON:0002384",
             "name": "connective tissue"
         },
-        "urinary_17-1": {
-            "models": "ILX:0738408",
-            "name": "Rhabdosphincter of male"
-        },
         "urinary_18-1": {
             "models": "UBERON:0004538",
             "name": "left kidney"
@@ -4921,6 +4917,394 @@
             "models": "ILX:0794954",
             "name": "dorsum of the hand"
         },
+        "abductor_pollicis_longus_m": {
+            "models": "UBERON:0001527",
+            "name": "abductor pollicis longus"
+        },
+        "anconeus_muscle_m": {
+            "models": "UBERON:0002989",
+            "name": "anconeus muscle"
+        },
+        "brachioradialis_m": {
+            "models": "UBERON:0011011",
+            "name": "brachioradialis"
+        },
+        "extensor_carpi_radialis_brevis_muscle_m": {
+            "models": "UBERON:0001525",
+            "name": "extensor carpi radialis brevis muscle"
+        },
+        "extensor_carpi_radialis_longus_muscle_m": {
+            "models": "UBERON:0001524",
+            "name": "extensor carpi radialis longus muscle"
+        },
+        "extensor_carpi_ulnaris_muscle_m": {
+            "models": "UBERON:0001526",
+            "name": "extensor carpi ulnaris muscle"
+        },
+        "extensor_digiti_minimi_muscle_m": {
+            "models": "UBERON:0007614",
+            "name": "extensor digiti minimi muscle"
+        },
+        "extensor_digitorum_brevis_pes_m": {
+            "models": "UBERON:0000372",
+            "name": "extensor digitorum brevis pes"
+        },
+        "extensor_digitorum_communis_m": {
+            "models": "UBERON:0007612",
+            "name": "extensor digitorum communis"
+        },
+        "extensor_indicis_muscle_m": {
+            "models": "ILX:0794978",
+            "name": "extensor indicis muscle"
+        },
+        "extensor_pollicis_longus_muscle_m": {
+            "models": "UBERON:0003234",
+            "name": "extensor pollicis longus muscle"
+        },
+        "fibularis_brevis_m": {
+            "models": "UBERON:0010526",
+            "name": "fibularis brevis"
+        },
+        "infraspinatus_muscle_m": {
+            "models": "UBERON:0001477",
+            "name": "infraspinatus muscle"
+        },
+        "levator_scapulae_muscle_m": {
+            "models": "UBERON:0005461",
+            "name": "levator scapulae muscle"
+        },
+        "long_head_of_triceps_brachii_muscle_m": {
+            "models": "ILX:0794976",
+            "name": "long head of triceps brachii muscle"
+        },
+        "obliquus_capitis_inferior_muscle_m": {
+            "models": "ILX:0794957",
+            "name": "obliquus capitis inferior muscle"
+        },
+        "obliquus_capitis_superior_muscle_m": {
+            "models": "ILX:0794956",
+            "name": "obliquus capitis superior muscle"
+        },
+        "rectus_capitis_posterior_major_m": {
+            "models": "UBERON:0008454",
+            "name": "rectus capitis posterior major"
+        },
+        "rectus_capitis_posterior_minor_m": {
+            "models": "UBERON:0008455",
+            "name": "rectus capitis posterior minor"
+        },
+        "rhomboid_major_muscle_m": {
+            "models": "ILX:0794980",
+            "name": "rhomboid major muscle"
+        },
+        "rhomboid_minor_muscle_m": {
+            "models": "ILX:0794981",
+            "name": "rhomboid minor muscle"
+        },
+        "serratus_dorsalis_inferior_muscle_m": {
+            "models": "UBERON:0001127",
+            "name": "serratus dorsalis inferior muscle"
+        },
+        "serratus_posterior_superior_muscle_m": {
+            "models": "ILX:0794989",
+            "name": "serratus posterior superior muscle"
+        },
+        "splenius_capitis_m": {
+            "models": "UBERON:0000711",
+            "name": "splenius capitis"
+        },
+        "splenius_cervicis_m": {
+            "models": "UBERON:0008544",
+            "name": "splenius cervicis"
+        },
+        "supraspinatus_muscle_m_right": {
+            "models": "UBERON:0002383",
+            "name": "supraspinatus muscle"
+        },
+        "supraspinatus_muscle_m_left": {
+            "models": "UBERON:0002383",
+            "name": "supraspinatus muscle"
+        },
+        "teres_major_muscle_m": {
+            "models": "UBERON:0001478",
+            "name": "teres major muscle"
+        },
+        "teres_minor_muscle_m": {
+            "models": "UBERON:0010496",
+            "name": "teres minor muscle"
+        },
+        "flexor_carpi_ulnaris_muscle_m": {
+            "models": "UBERON:0001522",
+            "name": "flexor carpi ulnaris muscle"
+        },
+        "female_external_urethral_sphincter_m": {
+            "models": "UBERON:0011380",
+            "name": "female external urethral sphincter"
+        },
+        "musculature_of_perineum_m": {
+            "models": "UBERON:0004486",
+            "name": "musculature of perineum"
+        },
+        "coccygeus_muscle_m": {
+            "models": "UBERON:0001327",
+            "name": "coccygeus muscle"
+        },
+        "dorsal_pes_interosseous_muscle_m": {
+            "models": "UBERON:0006499",
+            "name": "dorsal pes interosseous muscle"
+        },
+        "obturator_externus_m": {
+            "models": "UBERON:0001368",
+            "name": "obturator externus"
+        },
+        "popliteus_muscle_m": {
+            "models": "UBERON:0001391",
+            "name": "popliteus muscle"
+        },
+        "quadratus_lumborum_m": {
+            "models": "UBERON:0001220",
+            "name": "quadratus lumborum"
+        },
+        "supinator_muscle_m": {
+            "models": "UBERON:0003228",
+            "name": "supinator muscle"
+        },
+        "adductor_brevis_m": {
+            "models": "UBERON:0000368",
+            "name": "adductor brevis"
+        },
+        "adductor_hallucis_muscle_m": {
+            "models": "UBERON:0014379",
+            "name": "adductor hallucis muscle"
+        },
+        "bulbospongiosus_muscle_m": {
+            "models": "UBERON:0011389",
+            "name": "bulbospongiosus muscle"
+        },
+        "deep_part_of_external_anal_sphincter_m": {
+            "models": "ILX:0794984",
+            "name": "deep part of external anal sphincter"
+        },
+        "deep_transverse_perineal_muscle_m": {
+            "models": "ILX:0795020",
+            "name": "deep transverse perineal muscle"
+        },
+        "external_intercostal_muscle_m": {
+            "models": "UBERON:0005441",
+            "name": "external intercostal muscle"
+        },
+        "external_urethral_sphincter_m": {
+            "models": "UBERON:0004919",
+            "name": "external urethral sphincter"
+        },
+        "first_lumbrical_muscle_of_the_hand_m": {
+            "models": "ILX:0795064",
+            "name": "first lumbrical muscle of the hand"
+        },
+        "flexor_digitorum_longus_m": {
+            "models": "UBERON:0001666",
+            "name": "flexor digitorum longus"
+        },
+        "flexor_digitorum_profundus_m": {
+            "models": "UBERON:0001523",
+            "name": "flexor digitorum profundus"
+        },
+        "flexor_pollicis_longus_muscle_m": {
+            "models": "UBERON:0008446",
+            "name": "flexor pollicis longus muscle"
+        },
+        "fourth_lumbrical_muscle_of_the_hand_m": {
+            "models": "ILX:0796488",
+            "name": "fourth lumbrical muscle of the hand"
+        },
+        "innermost_intercostal_muscle_m": {
+            "models": "UBERON:0008617",
+            "name": "innermost intercostal muscle"
+        },
+        "internal_intercostal_muscle_m": {
+            "models": "UBERON:0002403",
+            "name": "internal intercostal muscle"
+        },
+        "ischiocavernosus_muscle_m": {
+            "models": "UBERON:0001339",
+            "name": "ischiocavernosus muscle"
+        },
+        "lumbrical_muscle_of_pes_m": {
+            "models": "UBERON:0001504",
+            "name": "lumbrical muscle of pes"
+        },
+        "medial_portion_of_the_brachialis_muscle_m": {
+            "models": "ILX:0794948",
+            "name": "medial portion of the brachialis muscle"
+        },
+        "opponens_digiti_minimi_of_hand_m": {
+            "models": "UBERON:0036176",
+            "name": "opponens digiti minimi of hand"
+        },
+        "plantar_interosseous_muscle_of_pes_m": {
+            "models": "UBERON:0006502",
+            "name": "plantar interosseous muscle of pes"
+        },
+        "plantaris_m": {
+            "models": "UBERON:0011905",
+            "name": "plantaris"
+        },
+        "pronator_quadratus_muscle_m": {
+            "models": "ILX:0794963",
+            "name": "pronator quadratus muscle"
+        },
+        "psoas_minor_muscle_m": {
+            "models": "UBERON:0001372",
+            "name": "psoas minor muscle"
+        },
+        "quadratus_plantae_muscle_m": {
+            "models": "ILX:0794995",
+            "name": "quadratus plantae muscle"
+        },
+        "second_lumbrical_muscle_of_the_hand_m": {
+            "models": "ILX:0795065",
+            "name": "second lumbrical muscle of the hand"
+        },
+        "serratus_anterior_muscle_m": {
+            "models": "ILX:0794983",
+            "name": "serratus anterior muscle"
+        },
+        "subclavius_m": {
+            "models": "UBERON:0008779",
+            "name": "subclavius"
+        },
+        "superficial_transverse_perineal_muscle_m": {
+            "models": "ILX:0795019",
+            "name": "superficial transverse perineal muscle"
+        },
+        "third_lumbrical_muscle_of_the_hand_m": {
+            "models": "ILX:0796487",
+            "name": "third lumbrical muscle of the hand"
+        },
+        "tibialis_posterior_m": {
+            "models": "UBERON:0001667",
+            "name": "tibialis posterior"
+        },
+        "transversus_abdominis_muscle_m": {
+            "models": "UBERON:0001221",
+            "name": "transversus abdominis muscle"
+        },
+        "transversus_thoracis_m": {
+            "models": "UBERON:0002404",
+            "name": "transversus thoracis"
+        },
+        "vastus_intermedius_m": {
+            "models": "UBERON:0014847",
+            "name": "vastus intermedius"
+        },
+        "abductor_digiti_minimi_muscle_of_foot_m": {
+            "models": "ILX:0794993",
+            "name": "Abductor digiti minimi muscle of foot"
+        },
+        "abductor_digiti_minimi_muscle_of_hand_m": {
+            "models": "ILX:0794994",
+            "name": "Abductor digiti minimi muscle of hand"
+        },
+        "abductor_hallucis_muscle_m": {
+            "models": "UBERON:0008464",
+            "name": "abductor hallucis muscle"
+        },
+        "abductor_pollicis_brevis_muscle_m": {
+            "models": "UBERON:0008465",
+            "name": "abductor pollicis brevis muscle"
+        },
+        "extensor_hallucis_longus_muscle_m": {
+            "models": "ILX:0794992",
+            "name": "extensor hallucis longus muscle"
+        },
+        "fibularis_tertius_m": {
+            "models": "UBERON:0010524",
+            "name": "fibularis tertius"
+        },
+        "flexor_carpi_radialis_muscle_m": {
+            "models": "UBERON:0001521",
+            "name": "flexor carpi radialis muscle"
+        },
+        "flexor_digiti_minimi_brevis_of_hand_m": {
+            "models": "UBERON:0036174",
+            "name": "flexor digiti minimi brevis of hand"
+        },
+        "flexor_digiti_minimi_brevis_of_the_foot_m": {
+            "models": "ILX:0794958",
+            "name": "Flexor digiti minimi brevis of the foot"
+        },
+        "flexor_hallucis_brevis_muscle_m": {
+            "models": "UBERON:0011022",
+            "name": "flexor hallucis brevis muscle"
+        },
+        "flexor_pollicis_brevis_muscle_m": {
+            "models": "UBERON:0011012",
+            "name": "flexor pollicis brevis muscle"
+        },
+        "opponens_pollicis_muscle_m": {
+            "models": "ILX:0794964",
+            "name": "opponens pollicis muscle"
+        },
+        "palmaris_brevis_m": {
+            "models": "UBERON:0036172",
+            "name": "palmaris brevis"
+        },
+        "palmaris_longus_muscle_m": {
+            "models": "UBERON:0016493",
+            "name": "palmaris longus muscle"
+        },
+        "pyramidalis_m": {
+            "models": "UBERON:0011016",
+            "name": "pyramidalis"
+        },
+        "rectus_abdominis_muscle_m": {
+            "models": "UBERON:0002382",
+            "name": "rectus abdominis muscle"
+        },
+        "subcutaneous_part_of_external_anal_sphincter_m": {
+            "models": "ILX:0794986",
+            "name": "subcutaneous part of external anal sphincter"
+        },
+        "superficial_part_of_external_anal_sphincter_m": {
+            "models": "ILX:0794985",
+            "name": "superficial part of external anal sphincter"
+        },
+        "tensor_fasciae_latae_muscle_m": {
+            "models": "UBERON:0001376",
+            "name": "tensor fasciae latae muscle"
+        },
+        "acromioclavicular_joint_b": {
+            "models": "UBERON:0003692",
+            "name": "acromioclavicular joint"
+        },
+        "coracoclavicular_ligament_b": {
+            "models": "UBERON:0034736",
+            "name": "coracoclavicular ligament"
+        },
+        "glenohumeral_joint_b": {
+            "models": "UBERON:0001470",
+            "name": "glenohumeral joint"
+        },
+        "interosseous_membrane_of_arm_b": {
+            "models": "ILX:0794962",
+            "name": "Interosseous membrane of arm"
+        },
+        "periosteum_of_the_forearm_b": {
+            "models": "ILX:0794961",
+            "name": "periosteum of the forearm"
+        },
+        "radio-carpal_joint_b": {
+            "models": "UBERON:0011968",
+            "name": "radio-carpal joint"
+        },
+        "shoulder_joint_b": {
+            "models": "UBERON:0016884",
+            "name": "shoulder joint"
+        },
+        "ulnar_collateral_ligament_b": {
+            "models": "ILX:0794971",
+            "name": "ulnar collateral ligament"
+        },
         "gluteal_sulcus_s": {
             "models": "UBERON:0036014",
             "name": "gluteal sulcus"
@@ -5013,6 +5397,10 @@
             "models": "UBERON:0003403",
             "name": "skin of forearm"
         },
+        "skin_of_elbow_s": {
+            "models": "UBERON:0001517",
+            "name": "skin of elbow"
+        },
         "plantar_part_of_pes_s": {
             "models": "UBERON:0008338",
             "name": "plantar part of pes"
@@ -5044,6 +5432,14 @@
         "iliac_fossa_b": {
             "models": "UBERON:0011015",
             "name": "iliac fossa"
+        },
+        "subacromial_bursa_b": {
+            "models": "ILX:0794965",
+            "name": "subacromial bursa"
+        },
+        "dorsal_skin_of_finger_s": {
+            "models": "UBERON:0005276",
+            "name": "dorsal skin of finger"
         },
         "vagus_1": {
             "type": "nerve",
@@ -5938,7 +6334,7 @@
             "models": "UBERON:0001369",
             "name": "iliacus"
         },
-        "muextensor_digitorum_longus_m": {
+        "extensor_digitorum_longus_m": {
             "models": "UBERON:0001386",
             "name": "extensor digitorum longus"
         },
@@ -5947,8 +6343,8 @@
             "name": "fibularis longus"
         },
         "flexor_hallucis_longus_m": {
-            "models": "ILX:0794992",
-            "name": "extensor hallucis longus"
+            "models": "UBERON:0001392",
+            "name": "flexor hallucis longus"
         },
         "soleus_muscle_m": {
             "models": "UBERON:0001389",
@@ -6046,6 +6442,10 @@
             "models": "UBERON:0001505",
             "name": "coracobrachialis muscle"
         },
+        "subscapularis_muscle_m": {
+            "models": "UBERON:0001129",
+            "name": "subscapularis muscle"
+        },
         "dorsal_interosseous_of_manus_m": {
             "models": "UBERON:0001503",
             "name": "dorsal interosseous of manus"
@@ -6065,6 +6465,10 @@
         "external_anal_sphincter_m": {
             "models": "UBERON:0001367",
             "name": "external anal sphincter"
+        },
+        "rhabdosphincter_of_male_m": {
+            "models": "ILX:0738408",
+            "name": "Rhabdosphincter of male"
         }
     },
     "networks": [
